@@ -84,3 +84,8 @@ Maintained by [mailpassed.com](https://mailpassed.com), free email-authenticatio
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Need it done?
+Printers or apps still on SMTP AUTH and no time to move them? I move each one to OAuth, a connector relay or Direct Send and
+test it: [fix scan to email for Office 365 (Fiverr)](https://www.fiverr.com/donrulezz/harden-and-secure-your-linux-vps-server-with-an-audit-report).
+The script stays free.
