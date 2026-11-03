@@ -87,6 +87,6 @@ Maintained by [mailpassed.com](https://mailpassed.com), free email-authenticatio
 MIT. See [LICENSE](LICENSE).
 
 ## Need it done?
-Printers or apps still on SMTP AUTH and no time to move them? I move each one to OAuth, a connector relay or Direct Send and
-test it: [fix scan to email for Office 365 (Fiverr)](https://www.fiverr.com/donrulezz/harden-and-secure-your-linux-vps-server-with-an-audit-report).
-The script stays free.
+Printers or apps still on SMTP AUTH and no time to work out each one? [Scan to email fixed for you](https://mailpassed.com/go/buy-scan-fix),
+$39 per office (up to 3 devices): the settings for each device and the Microsoft 365 steps within 24 hours, and I follow up
+until a test scan arrives. The script stays free.
