@@ -76,8 +76,9 @@ Kyocera, Sharp, Lexmark, Epson, WordPress SMTP plugins, Synology/QNAP and PowerS
 Need more than the free guides?
 - [Microsoft 365 SMTP Fix Kit](https://donruler.gumroad.com/l/microsoft-365-smtp-fix-kit) ($19): decision table, connector
   set-up, per-device steps, sender worksheet and checklist in one printable guide.
-- [Done for you on Fiverr](https://www.fiverr.com/donrulezz/harden-and-secure-your-linux-vps-server-with-an-audit-report):
-  your devices and apps moved and tested, from $25.
+- [Scan to email fixed for you](https://mailpassed.com/go/buy-scan-fix) ($39 per office, up to 3 devices): the exact
+  settings for each device and the Microsoft 365 steps (relay connector, Direct Send or OAuth) within 24 hours, then I
+  follow up until a test scan arrives. No passwords or remote access; card checkout, no account needed.
 
 Maintained by [mailpassed.com](https://mailpassed.com), free email-authentication tools (SPF, DKIM, DMARC, MTA-STS).
 
